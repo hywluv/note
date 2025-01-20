@@ -1,1 +1,4 @@
-site_name: My Docs
+site_name: 一只特立独行的猪の笔记
+site_url: hywluv.github.io/note
+theme:
+  name: material
